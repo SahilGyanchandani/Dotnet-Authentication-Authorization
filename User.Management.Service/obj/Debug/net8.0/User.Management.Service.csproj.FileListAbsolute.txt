@@ -1,0 +1,12 @@
+C:\Users\promact\Documents\User.Management.api\User.Management.Service\bin\Debug\net8.0\User.Management.Service.deps.json
+C:\Users\promact\Documents\User.Management.api\User.Management.Service\bin\Debug\net8.0\User.Management.Service.dll
+C:\Users\promact\Documents\User.Management.api\User.Management.Service\bin\Debug\net8.0\User.Management.Service.pdb
+C:\Users\promact\Documents\User.Management.api\User.Management.Service\obj\Debug\net8.0\User.Management.Service.csproj.AssemblyReference.cache
+C:\Users\promact\Documents\User.Management.api\User.Management.Service\obj\Debug\net8.0\User.Management.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\promact\Documents\User.Management.api\User.Management.Service\obj\Debug\net8.0\User.Management.Service.AssemblyInfoInputs.cache
+C:\Users\promact\Documents\User.Management.api\User.Management.Service\obj\Debug\net8.0\User.Management.Service.AssemblyInfo.cs
+C:\Users\promact\Documents\User.Management.api\User.Management.Service\obj\Debug\net8.0\User.Management.Service.csproj.CoreCompileInputs.cache
+C:\Users\promact\Documents\User.Management.api\User.Management.Service\obj\Debug\net8.0\User.Management.Service.dll
+C:\Users\promact\Documents\User.Management.api\User.Management.Service\obj\Debug\net8.0\refint\User.Management.Service.dll
+C:\Users\promact\Documents\User.Management.api\User.Management.Service\obj\Debug\net8.0\User.Management.Service.pdb
+C:\Users\promact\Documents\User.Management.api\User.Management.Service\obj\Debug\net8.0\ref\User.Management.Service.dll
